@@ -2,6 +2,8 @@
   padding: 0;
   margin: 0;
   box-sizing: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
 }
 .container{
   width: 100%;
@@ -12,8 +14,21 @@
   align-items: center;
 }
 .form{
-  width: 50%;
+  width: 45%;
   height: 250px;
   background-color: white;
- 
+  border-radius: 5px;
+}
+.kg{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+.kg input{
+  width: 70%;
+  
+}
+.kg span{
+  margin-right: 10px;
+  font-size: 1.2rem;
 }
