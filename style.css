@@ -60,3 +60,9 @@ input{
   text-align: center;
   margin-top: 5px;
 }
+.about{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 10px 10px;
+}
