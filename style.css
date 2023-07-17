@@ -32,3 +32,16 @@
   margin-right: 10px;
   font-size: 1.2rem;
 }
+.m{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+.m input{
+  width: 70%;
+  
+}
+.m span{
+  margin-right: 10px;
+  font-size: 1.2rem;
+}
