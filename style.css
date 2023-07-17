@@ -51,3 +51,12 @@
   font-size: 2rem;
   color: #9B2335;
 }
+input{
+  width: 90%;
+}
+.status{
+  font-size: 2rem;
+  color: rgb(143 199 159);
+  text-align: center;
+  margin-top: 5px;
+}
