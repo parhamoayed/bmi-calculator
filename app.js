@@ -59,7 +59,7 @@ inputM.addEventListener('change',function(){
   
 })
 //-------------------------------------------------
-
+//-------------------------------------------------
 function countBmi(kg,m){
   result.innerHTML=String('BMI : '+(kg/(m/100*m/100)).toFixed(1))
  
